@@ -9,6 +9,9 @@ Clipboard Image Uploader is a lightweight Chrome extension that enhances product
 - Automatic detection of image upload fields.
 - Easy-to-use interface and seamless integration with web pages.
 
+## Demo
+![](https://abhi.cloud/sharemyfile/anonfiles/image15.gif)
+
 ## Installation
 ### Prerequisites
 - Google Chrome browser.
